@@ -2,6 +2,22 @@
 # 效果
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/9c2c3017a80042e7be798a3c736a356c.gif)
 
+下拉样式可自定义
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/ac40bf62f6874c41a8f637195950ca2f.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/5b3af31d8ea84b8aa22110b332e98e4f.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/39cfb306be034313bded5ee15b3e7efd.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/87deceab4cd647368e59524745fc142a.png)
+
+跟随QToolButton的Qt::ToolButtonStyle属性改变图标文字样式
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/f78488d5bbae42d5a681db46754bfa8e.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/519ab098229c4996a851ad5ccd1c6251.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/1e9765baf9774c80b788462d5f290bca.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/c8c42d75781448c59ba98e5c5e5a3e11.png)
+
+
+
+
+
 # 使用示例
 
 正常UI文件创建QToolButton然后提升，或者直接代码创建都可以。
