@@ -68,9 +68,5 @@
         qDebug() << i << texts.at(i);
     });
 ```
-# 源码
 
-> CSDN 资源 [https://download.csdn.net/download/weixin_43807244/89552106](https://download.csdn.net/download/weixin_43807244/89552106)
-
-> Github 链接 
-[https://github.com/sorrowfeng/MenuToolButton](https://github.com/sorrowfeng/MenuToolButton)
+有帮助的话请给个star吧
