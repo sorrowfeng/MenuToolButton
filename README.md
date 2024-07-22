@@ -1,6 +1,6 @@
 # MenuToolButton自绘控件，带下拉框的QToolButton
 # 效果
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/9c2c3017a80042e7be798a3c736a356c.gif)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/786735f38ea849c396e01a2fd61d71c1.gif)
 
 
 下拉样式可自定义
